@@ -14,3 +14,7 @@ FlappyBird game using PIXI.Js
 #After Setup 
 Available on your local:
 http://127.0.0.1:8080
+
+
+
+Live url: https://rajkumargadhavi.github.io/FlappyBird/
