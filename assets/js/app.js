@@ -31,7 +31,7 @@ stage.buttonMode = true;
 stage.on('mousedown', gameBegin);
 stage.on('tap', gameBegin);
 
-const backgroundMusic = PIXI.sound.Sound.from('../assets/audio/bgm.mp3');
+const backgroundMusic = PIXI.sound.Sound.from('assets/audio/bgm.mp3');
 backgroundMusic.loop = true;
 backgroundMusic.volume = 0.25;
 
